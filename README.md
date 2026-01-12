@@ -3,4 +3,4 @@ Pengembangan Aplikasi CRUD Kota Berbasis Webservice API Menggunakan Laravel dan 
 
 Tysha Hidayati 235410042
 Arin Isnaini Kurniawati 235410055
-Fransiska xaveria Manek 235410074
+Fransiska Xaveria Manek 235410074
